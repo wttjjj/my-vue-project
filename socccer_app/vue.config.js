@@ -3,6 +3,6 @@ module.exports = defineConfig({
   transpileDependencies: true,
   outputDir: 'docs',
   publicPath: process.env.NODE_ENV === 'production' 
-    ? '/my-vue-project/socccer_app' 
+    ? '/my-vue-project/socccer_app/' 
     : '/'
 })
