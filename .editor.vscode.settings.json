@@ -1,0 +1,23 @@
+{
+    
+    "editor.tabSize": 4,
+    "editor.formatOnSave": false,
+    "editor.renderControlCharacters": true,
+
+    "explorer.confirmDelete": false,
+
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.fixAll.stylelint": true
+    },
+    
+    "window.zoomLevel": 0,
+    
+    "eslint.validate": [
+        "javascript",
+        "vue",
+        "html"
+    ],
+    
+    "git.ignoreWindowsGit27Warning": true
+}
